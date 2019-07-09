@@ -2,5 +2,8 @@ body {
   background-color: #f5f8fa;
 }
 .container {
+  width: 100%;
+  padding-right: 30px;
+  padding-left: 40px;
   background-color: #fff;
 }
